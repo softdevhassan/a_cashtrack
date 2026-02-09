@@ -1,0 +1,48 @@
+/* Basic CSS Reset and Default Styling */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+@keyframes gradientShift {
+  0%   { background-position: 0% 50%; }
+  50%  { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+/* 👇 Select2 / SimpleSelect ki default height aur padding reset kr do */
+.searchable + .select2-container {
+  border: 1px solid #cacaca;
+  border-radius: 8px;
+}
+.searchable + .select2-container .select2-selection--single {
+  margin-top: 7px;
+  height: auto !important;
+  border: 1px solid rgb(var(--ts) / 0.3) !important;
+  border-radius: 0.375rem !important; /* same as rounded */
+  padding: 0.25rem 0.5rem !important; /* same as px-2 py-1 */
+  font-size: 1rem !important; /* same as text-md */
+}
+
+/* 👇 Focus ring aur hover look Tailwind jesi bna do */
+.searchable + .select2-container .select2-selection--single:focus,
+.searchable + .select2-container .select2-selection--single:focus-visible {
+  outline: none !important;
+  box-shadow: 0 0 0 2px rgb(var(--accent) / 0.3) !important;
+  border: 1px solid #cacaca;
+}
+
+/* 👇 Arrow aur text align kr do */
+.searchable + .select2-container .select2-selection__rendered {
+  line-height: normal !important;
+}
+
+.searchable + .select2-container .select2-selection__arrow {
+  height: 100% !important;
+}

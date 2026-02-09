@@ -1,0 +1,104 @@
+{
+  "default": {
+    "title": "CashTrack - Smart Expense Tracking & Wallet Management",
+    "description": "CashTrack is the ultimate expense tracking solution for managing your finances. Track wallets, monitor spending, and take control of your money with lifetime plans.",
+    "keywords": "expense tracker, wallet management, budget app, finance tracking, spending tracker",
+    "image": "images/social-share.webp",
+    "robots": "index, follow"
+  },
+  "index": {
+    "title": "Best Expense Tracker for Your Finance Management | CashTrack",
+    "description": "Take control of your finances with CashTrack. Track expenses, manage multiple wallets, and visualize spending patterns with lifetime access plans.",
+    "keywords": "expense tracking software, budget management, wallet app, financial planning, CashTrack",
+    "image": "images/social-share.webp",
+    "robots": "index, follow"
+  },
+  "login": {
+    "title": "Login to Your Account | CashTrack",
+    "description": "Access your CashTrack dashboard to manage your wallets, transactions, and financial insights.",
+    "keywords": "login, sign in, expense tracker dashboard, account access",
+    "image": "images/social-share.webp",
+    "robots": "noindex, follow"
+  },
+  "signup": {
+    "title": "Create Your Free Account | CashTrack",
+    "description": "Join CashTrack today and start tracking your expenses with 50 free transactions and 2 wallets. No credit card required.",
+    "keywords": "sign up, register, free expense tracker account, create account",
+    "image": "images/social-share.webp",
+    "robots": "noindex, follow"
+  },
+  "password-reset": {
+    "title": "Reset Your Password | CashTrack",
+    "description": "Reset your CashTrack account password securely.",
+    "image": "images/social-share.webp",
+    "robots": "noindex, nofollow"
+  },
+  "plans": {
+    "title": "Pricing & Plans | CashTrack",
+    "description": "Choose the perfect plan for your expense tracking needs. Lifetime access with limit-based pricing - no monthly fees.",
+    "keywords": "expense tracker pricing, wallet app plans, affordable budget software, lifetime access plans",
+    "image": "images/social-share.webp",
+    "robots": "index, follow"
+  },
+  "privacy-policy": {
+    "title": "Privacy Policy | CashTrack",
+    "description": "Read our Privacy Policy to understand how we collect, use, and protect your financial data.",
+    "keywords": "privacy policy, data protection, privacy",
+    "image": "images/social-share.webp",
+    "robots": "noindex, follow"
+  },
+  "terms-of-service": {
+    "title": "Terms of Service | CashTrack",
+    "description": "Read our Terms of Service to understand the rules and regulations for using CashTrack.",
+    "keywords": "terms of service, user agreement, terms",
+    "image": "images/social-share.webp",
+    "robots": "noindex, follow"
+  },
+  "cookie-policy": {
+    "title": "Cookie Policy | CashTrack",
+    "description": "Learn about how we use cookies to improve your experience on CashTrack.",
+    "keywords": "cookie policy, cookies, tracking",
+    "image": "images/social-share.webp",
+    "robots": "noindex, follow"
+  },
+  "gdpr-compliance": {
+    "title": "GDPR Compliance | CashTrack",
+    "description": "Learn about our commitment to GDPR compliance and data privacy.",
+    "keywords": "GDPR, data privacy, compliance",
+    "image": "images/social-share.webp",
+    "robots": "noindex, follow"
+  },
+  "features": {
+    "title": "Features & Capabilities | CashTrack",
+    "description": "Explore powerful expense tracking features including multiple wallet types, category management, double-entry transfers, and visual analytics.",
+    "keywords": "expense tracker features, wallet management, budget tools, financial analytics",
+    "image": "images/social-share.webp",
+    "robots": "index, follow"
+  },
+  "about": {
+    "title": "About Us | CashTrack",
+    "description": "Learn about CashTrack - built by people who believe financial tools should be accessible, affordable, and actually useful.",
+    "keywords": "about cashtrack, company info, our story",
+    "image": "images/social-share.webp",
+    "robots": "index, follow"
+  },
+  "contact": {
+    "title": "Contact Us | CashTrack",
+    "description": "Get in touch with the CashTrack team for support, questions, or feedback.",
+    "keywords": "contact, support, help, customer service",
+    "image": "images/social-share.webp",
+    "robots": "index, follow"
+  },
+  "sitemap": {
+    "title": "Sitemap | CashTrack",
+    "description": "View all pages available on CashTrack.",
+    "image": "images/social-share.webp",
+    "robots": "index, follow"
+  },
+  "404": {
+    "title": "Page Not Found | CashTrack",
+    "description": "The page you are looking for does not exist.",
+    "image": "images/social-share.webp",
+    "robots": "noindex, nofollow"
+  }
+}

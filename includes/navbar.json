@@ -1,0 +1,97 @@
+[
+  {
+    "title": "Landing",
+    "url": "/",
+    "icon": "ri-home-4-line"
+  },
+  {
+    "title": "Login",
+    "url": "/auth/login",
+    "icon": "ri-login-box-line"
+  },
+  {
+    "title": "Signup",
+    "url": "/auth/signup",
+    "icon": "ri-user-add-line"
+  },
+  {
+    "title": "Reset Password",
+    "url": "/auth/reset-password",
+    "icon": "ri-lock-password-line"
+  },
+  {
+    "title": "Plans & Pricing",
+    "url": "/plans",
+    "icon": "ri-price-tag-3-line"
+  },
+  {
+    "title": "Checkout",
+    "url": "/proceed-to-checkout",
+    "icon": "ri-secure-payment-line"
+  },
+  {
+    "title": "Dashboard",
+    "url": "/pages/dashboard",
+    "icon": "ri-dashboard-line"
+  },
+  {
+    "title": "Wallets",
+    "url": "/pages/wallets",
+    "icon": "ri-wallet-line"
+  },
+  {
+    "title": "Transactions",
+    "url": "/pages/transactions",
+    "icon": "ri-exchange-line"
+  },
+  {
+    "title": "Categories",
+    "url": "/pages/categories",
+    "icon": "ri-price-tag-line"
+  },
+  {
+    "title": "Analytics & Reports",
+    "url": "/pages/analytics",
+    "icon": "ri-bar-chart-box-line"
+  },
+  {
+    "title": "Users Management",
+    "url": "/pages/users",
+    "icon": "ri-team-line"
+  },
+  {
+    "title": "Plans Management",
+    "url": "/pages/plans-management",
+    "icon": "ri-vip-crown-line"
+  },
+  {
+    "title": "Admin Monitoring",
+    "url": "/pages/admin-monitoring",
+    "icon": "ri-line-chart-line"
+  },
+  {
+    "title": "Billing",
+    "url": "/pages/billing",
+    "icon": "ri-bank-card-line"
+  },
+  {
+    "title": "My Subscription",
+    "url": "/pages/my-plan",
+    "icon": "ri-calendar-check-line"
+  },
+  {
+    "title": "Account Settings",
+    "url": "/pages/account",
+    "icon": "ri-settings-3-line"
+  },
+  {
+    "title": "Logout",
+    "url": "/auth/logout",
+    "icon": "ri-logout-box-line"
+  },
+  {
+    "title": "404",
+    "url": "/404",
+    "icon": "ri-error-warning-line"
+  }
+]

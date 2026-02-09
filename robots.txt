@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /api/
+Disallow: /workers/
+Disallow: /includes/
+Disallow: /vendor/
+Disallow: /.env
+Allow: /
+Sitemap: https://CashTrack.pk/sitemap.xml

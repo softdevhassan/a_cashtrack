@@ -1,0 +1,6 @@
+{
+    "require": {
+        "binance/binance-connector-php": "1.0",
+        "phpmailer/phpmailer": "^7.0"
+    }
+}

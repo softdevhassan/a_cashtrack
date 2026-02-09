@@ -1,0 +1,1 @@
+Now delete api/test-email wali file, and make the contact form working with email function in functions file. make password reset system working. remove workers folder as we don't need it anymore
